@@ -8,8 +8,7 @@
  print "$meus_sonhos[2] vale $meus_numeros[5]\n";
  print "Soma de $meus_numeros[2] com $meus_numeros[4] é:
 ",
- $meus_numeros[2]
-+ $meus_numeros[4];
+ $meus_numeros[2] + $meus_numeros[4];
 
 
 # saída:
